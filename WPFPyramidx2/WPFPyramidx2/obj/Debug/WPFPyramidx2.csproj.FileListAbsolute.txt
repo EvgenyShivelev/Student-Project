@@ -1,0 +1,15 @@
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.csprojAssemblyReference.cache
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\MainWindow.g.cs
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\App.g.cs
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2_MarkupCompile.cache
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2_MarkupCompile.lref
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\bin\Debug\WPFPyramidx2.exe.config
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\bin\Debug\WPFPyramidx2.exe
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\bin\Debug\WPFPyramidx2.pdb
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\MainWindow.baml
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.g.resources
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.Properties.Resources.resources
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.csproj.GenerateResource.cache
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.csproj.CoreCompileInputs.cache
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.exe
+C:\Users\Pathfinder\source\repos\WPFPyramidx2\WPFPyramidx2\obj\Debug\WPFPyramidx2.pdb

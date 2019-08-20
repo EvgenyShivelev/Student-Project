@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFPyramidx2", "WPFPyramidx2\WPFPyramidx2.csproj", "{27521541-2AAC-48A0-B980-28807CBCB2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27521541-2AAC-48A0-B980-28807CBCB2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27521541-2AAC-48A0-B980-28807CBCB2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27521541-2AAC-48A0-B980-28807CBCB2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27521541-2AAC-48A0-B980-28807CBCB2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A28B1D-F894-4E71-AB00-BD7EE28AF0A4}
+	EndGlobalSection
+EndGlobal
